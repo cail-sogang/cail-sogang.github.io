@@ -22,13 +22,16 @@ layout: default
 	{% endif %}
 </div>
 
-
 <div class="container">
 	<div class="row">
 		<!-- begin page -->
 		<article class="page col col-8 col-t-10 col-m-12">
 			<div class="page__content" style="text-align: justify;">
 				{{ content }}
+				<div style="display: inline-flex; align-items: center;">
+			    <strong style="margin-right: -5px;"> Google Scholar |</strong>
+			    <span style="display: inline-block;">{% include contact-link.html %}</span>
+			  </div>
 			</div>
 		</article>
 		<!-- end page -->
