@@ -5,10 +5,11 @@ permalink: /members/
 image:
 ---
 
-![]({{site.baseurl}}/images/09.jpg)
-*Backyard*
+To be updated
+<!-- ![]({{site.baseurl}}/images/09.jpg) -->
+<!-- *Backyard* -->
 
-![]({{site.baseurl}}/images/09.jpg)
-*Backyard*
+<!-- ![]({{site.baseurl}}/images/09.jpg) -->
+<!-- *Backyard* -->
 
 ***

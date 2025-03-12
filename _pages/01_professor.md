@@ -13,7 +13,7 @@ My primary research interests include understanding the internal mechanisms of d
 I am also interested in exploring the intersection of art and deep learning, particularly in artistically visualizing the internal workings of neural networks. By creatively presenting these mechanisms, I aims to make complex AI systems more interpretable and inspire innovation in generative models.
 
 Previously, I worked as a staff researcher at Samsung Advanced Institute of Technology (SAIT), where I focused on developing human-aligned generative models to innovate the semiconductor patterning process.
-I received my Ph.D. degrees from UNIST under the supervision of Jaesik Choi (Graduate School of AI at KAIST)
+I received my Ph.D. degrees from Ulsan National Institute of Technology (UNIST) under the supervision of Jaesik Choi (Graduate School of AI at KAIST) and received B.S. degree in Design & Human Engineering from Ulsan National Institute of Technology (UNIST).
 
 
 ***
