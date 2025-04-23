@@ -1,6 +1,6 @@
 # cail-sogang.github.io
 
-**Creative Artificial Intelligence (CAI) Lab (@ Dept. of Art & Technology, Sogang University)** explores how generative AI can enhance human creativity and redefine human-computer collaboration. Our research focuses on making deep learning models more interpretable, as we believe that understanding their internal decision mechanisms is the first step toward building reliable, human-aligned AI systems.
+**Creative Artificial Intelligence (CAI) Group (@ Dept. of Art & Technology, Sogang University)** explores how generative AI can enhance human creativity and redefine human-computer collaboration. Our research focuses on making deep learning models more interpretable, as we believe that understanding their internal decision mechanisms is the first step toward building reliable, human-aligned AI systems.
 
 We are particularly interested in:
 
