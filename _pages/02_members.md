@@ -11,7 +11,10 @@ image:
 ## **MS Students**
 - Junhyeok Choi (2025-03 ~ Currently): Audio-Visual Transformation
 
-## **Alumni**
+## **Intern**
+- Jeongwoo Son (2025-04 ~ Currently): Explainable AI
+
+<!-- ## **Alumni** -->
 
 <!-- ![]({{site.baseurl}}/images/09.jpg) -->
 <!-- *Backyard* -->
