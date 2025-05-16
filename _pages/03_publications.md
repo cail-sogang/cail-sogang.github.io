@@ -2,11 +2,12 @@
 layout: page
 title: Publications
 permalink: /publications/
-image: 
+image:
 ---
 
 **International Conferences**
 *	G. Jeon, <b>H. Jeong</b>, and J. Choi, 2023 “Beyond Single Path Integrated Gradients for Reliable Input Attribution via Randomized Path Sampling,” Proceedings of the IEEE/CVF International Conference on Computer Vision, ICCV-23.
+*	G. Jeon\*, <b>H. Jeong\*</b>, and J. Choi, 2022 “Distilled gradient aggregation: Purify features for input attribution in the deep neural network,” Advances in Neural Information Processing Systems, NeurIPS-22. (*contributed equally)
 * <b>H. Jeong</b>, J. Han, and J. Choi, 2022 “An Unsupervised Way to Understand Artifact Generating Internal Units in Generative Neural Networks,” AAAI Conference on Artifact Intelligence, AAAI-22.
 * A. Tousi\*, <b>H. Jeong\*</b>, J. Han, H. Choi, and J. Choi, 2021, “Automatic Correction of Internal Units in Generative Neural Networks,” IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR21. (*contributed equally)
 * G. Jeon\*, <b>H. Jeong\*</b>, and J. Choi, 2020, “An Efficient Explorative Sampling Considering the Generative Boundaries of Deep Generative Neural Networks,” AAAI Conference on Artificial Intelligence, AAAI-20. (*contributed equally, Oral)
