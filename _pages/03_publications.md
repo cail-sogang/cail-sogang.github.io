@@ -6,6 +6,7 @@ image:
 ---
 
 **International Conferences**
+* S. Park\*, <b>H. Jeong\*</b>, T. Djanibekov\*, G. Jeon, J. Seol, and J. Choi, 2025 “On the Relationship between Populated Regions and Adversarial Robustness in Deep Neural Networks,” IEEE International Conference on Data Mining, ICDM-25. (*contributed equally)
 *	G. Jeon, <b>H. Jeong</b>, and J. Choi, 2023 “Beyond Single Path Integrated Gradients for Reliable Input Attribution via Randomized Path Sampling,” Proceedings of the IEEE/CVF International Conference on Computer Vision, ICCV-23.
 *	G. Jeon\*, <b>H. Jeong\*</b>, and J. Choi, 2022 “Distilled gradient aggregation: Purify features for input attribution in the deep neural network,” Advances in Neural Information Processing Systems, NeurIPS-22. (*contributed equally)
 * <b>H. Jeong</b>, J. Han, and J. Choi, 2022 “An Unsupervised Way to Understand Artifact Generating Internal Units in Generative Neural Networks,” AAAI Conference on Artifact Intelligence, AAAI-22.

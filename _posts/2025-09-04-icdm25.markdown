@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "One short paper is accepted to ICDM-25!"
+date:   2025-09-04 00:00:00 +0300
+image:  icdm25.png
+tags:   Publications
+---
+
+Our paper is accepted to The 25th IEEE International Conference on Data Mining (ICDM-25) 🎉.
+<br><br>
+This paper introduces the concept of Populated Region Set (PRS) to analyze internal properties of deep neural networks related to adversarial robustness. Through empirical studies, we show that a low PRS ratio is strongly linked to model robustness and propose a PRS-based regularizer that improves robustness without adversarial training.
+
+---
+Title: On the Relationship between Populated Regions and Adversarial Robustness in Deep Neural Networks
+<br>
+Authors: Seongjin Park\*, Haedong Jeong\*, Tair Djanibekov\*, Giyoung Jeon, Jinseok Seol, and Jaesik Choi (\* contributed equally)
+<br><br>
+Pre-print version:<br> [On the Relationship Between Adversarial Robustness and Decision Region in Deep Neural Network](https://arxiv.org/abs/2207.03400)  
+<br>
+Accepted version: <br>
+(To be appear)
+
+***
