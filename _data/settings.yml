@@ -12,7 +12,8 @@ author:
   image: cail_main.png
   say-hello: Hello, welcome to <br><strong>Creative <br>Artificial Intelligence Group</strong>
   # bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
-  bio: Creative Artificial Intelligence (CAI) Group (@ Dept. of Art & Technology, Sogang University) explores how generative AI can enhance human <a href="#">creativity</a> and redefine human-computer collaboration. Our research focuses on making deep learning models more <a href="#">interpretable</a>, as we believe that understanding their internal decision mechanisms is the first step toward building <a href="#">reliable</a>, human-aligned AI systems. <br><br><br>We always look for graduate students and postdoc collaborators.
+  bio: Creative Artificial Intelligence (CAI) Group (@ Dept. of Art & Technology, Sogang University) explores how generative AI can enhance human <a href="#">creativity</a> and redefine human-computer collaboration. Our research focuses on making deep learning models more <a href="#">interpretable</a>, as we believe that understanding their internal decision mechanisms is the first step toward building <a href="#">reliable</a>, human-aligned AI systems.
+  # <br><br><br>We always look for graduate students and postdoc collaborators.
 
 
 #----------------------------------
