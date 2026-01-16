@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "One paper is accepted to CHI-26!"
+date:   2025-09-04 00:00:00 +0300
+image:  chi26_FutureMe.png
+tags:   Publications
+---
+
+Our paper is accepted to Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI-26) 🎉.
+<br><br>
+This paper introduces <b>FutureMe</b>, a generative AI–driven system that helps children imagine self-represented future selves through photo-based, step-by-step narrative creation, fostering continuity between their present experiences and future aspirations.
+
+---
+Title: "I Can Be Anything!" Bridging Today and the Future through Generative AI-driven Self-represented Career Imagination for Children
+<br>
+Authors: Sunok Lee, and Haedong Jeong
+
+<br>
+Accepted version: <br>
+(To appear)
+
+***

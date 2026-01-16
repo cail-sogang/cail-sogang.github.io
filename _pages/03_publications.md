@@ -6,12 +6,13 @@ image:
 ---
 
 **International Conferences**
-* S. Park\*, <b>H. Jeong\*</b>, T. Djanibekov\*, G. Jeon, J. Seol, and J. Choi, 2025 “On the Relationship between Populated Regions and Adversarial Robustness in Deep Neural Networks,” IEEE International Conference on Data Mining, ICDM-25. (*contributed equally)
-*	G. Jeon, <b>H. Jeong</b>, and J. Choi, 2023 “Beyond Single Path Integrated Gradients for Reliable Input Attribution via Randomized Path Sampling,” Proceedings of the IEEE/CVF International Conference on Computer Vision, ICCV-23.
-*	G. Jeon\*, <b>H. Jeong\*</b>, and J. Choi, 2022 “Distilled gradient aggregation: Purify features for input attribution in the deep neural network,” Advances in Neural Information Processing Systems, NeurIPS-22. (*contributed equally)
-* <b>H. Jeong</b>, J. Han, and J. Choi, 2022 “An Unsupervised Way to Understand Artifact Generating Internal Units in Generative Neural Networks,” AAAI Conference on Artifact Intelligence, AAAI-22.
-* A. Tousi\*, <b>H. Jeong\*</b>, J. Han, H. Choi, and J. Choi, 2021, “Automatic Correction of Internal Units in Generative Neural Networks,” IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR21. (*contributed equally)
-* G. Jeon\*, <b>H. Jeong\*</b>, and J. Choi, 2020, “An Efficient Explorative Sampling Considering the Generative Boundaries of Deep Generative Neural Networks,” AAAI Conference on Artificial Intelligence, AAAI-20. (*contributed equally, Oral)
+* S. Lee, and <b>H. Jeong</b>, 2026, “"I Can Be Anything!" Bridging Today and the Future through Generative AI-driven Self-represented Career Imagination for Children,” Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, *CHI-26*. (To appear)
+* S. Park\*, <b>H. Jeong\*</b>, T. Djanibekov\*, G. Jeon, J. Seol, and J. Choi, 2025, “On the Relationship between Populated Regions and Adversarial Robustness in Deep Neural Networks,” IEEE International Conference on Data Mining, *ICDM-25*. (*contributed equally)
+* G. Jeon, <b>H. Jeong</b>, and J. Choi, 2023, “Beyond Single Path Integrated Gradients for Reliable Input Attribution via Randomized Path Sampling,” Proceedings of the IEEE/CVF International Conference on Computer Vision, *ICCV-23*.
+* G. Jeon\*, <b>H. Jeong\*</b>, and J. Choi, 2022, “Distilled gradient aggregation: Purify features for input attribution in the deep neural network,” Advances in Neural Information Processing Systems, *NeurIPS-22*. (*contributed equally)
+* <b>H. Jeong</b>, J. Han, and J. Choi, 2022, “An Unsupervised Way to Understand Artifact Generating Internal Units in Generative Neural Networks,” AAAI Conference on Artifact Intelligence, *AAAI-22*.
+* A. Tousi\*, <b>H. Jeong\*</b>, J. Han, H. Choi, and J. Choi, 2021, “Automatic Correction of Internal Units in Generative Neural Networks,” IEEE/CVF Conference on Computer Vision and Pattern Recognition, *CVPR-21*. (*contributed equally)
+* G. Jeon\*, <b>H. Jeong\*</b>, and J. Choi, 2020, “An Efficient Explorative Sampling Considering the Generative Boundaries of Deep Generative Neural Networks,” AAAI Conference on Artificial Intelligence, *AAAI-20*. (*contributed equally, Oral)
 * <b>H. Jeong</b>, M. Kim, B. Park, and S. Lee, 2017, “Vision-based Real-time Layer Error Quantification for Additive Manufacturing,” SME NAMRC 45, Los Angeles, CA, USA.
 * <b>H. Jeong</b>, S. Park, and S. Lee, 2016, “Deep Learning based Diagnostics for Rotating Machinery on Orbit Analysis,” Asian Conference Experimental Mechanics 2016, Jeju, Korea.
 * <b>H. Jeong</b>, S. Woo, B. Park, and S. Lee, 2016, “PHM for Manufacturing Industry with IoT and Cloud Platform,” Asian Conference Experimental Mechanics 2016, Jeju, Korea.
