@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "One paper is accepted to CVPR-26!"
+date:   2026-02-24 00:00:00 +0300
+image:  cvpr26_CREward.png
+tags:   Publications
+---
+
+Our paper is accepted to Conference on Computer Vision and Pattern Recognition (CVPR-26) 🎉.
+
+<br><br>
+This paper introduces <b>CREward</b>, a type-specific reward model that evaluates and guides image creativity across three distinct axes—geometry, material, and texture—by leveraging Large Vision-Language Models (LVLMs) aligned with human perception.
+
+---
+Title: CREward: A Type-Specific Creativity Reward Model
+<br>
+Authors: Jiyeon Han, Ali Mahdavi-Amiri, Hao Zhang, and Haedong Jeong
+<br><br>
+Pre-print version:<br> [CREward: A Type-Specific Creativity Reward Model](https://arxiv.org/abs/2511.19995)  
+<br>
+Accepted version: <br>
+(To appear)
+
+***

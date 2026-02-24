@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "One paper is accepted to CHI-26!"
-date:   2025-09-04 00:00:00 +0300
+date:   2026-02-10 00:00:00 +0300
 image:  chi26_FutureMe.png
 tags:   Publications
 ---
 
-Our paper is accepted to Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI-26) 🎉.
+Our paper is accepted to ACM Conference on Human Factors in Computing Systems (CHI-26) 🎉.
+
 <br><br>
 This paper introduces <b>FutureMe</b>, a generative AI–driven system that helps children imagine self-represented future selves through photo-based, step-by-step narrative creation, fostering continuity between their present experiences and future aspirations.
 

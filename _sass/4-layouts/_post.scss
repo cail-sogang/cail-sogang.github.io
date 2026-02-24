@@ -63,19 +63,12 @@
 }
 
 .post-image {
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    display: block;
+    width: 70%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
     background-color: $light-gray;
-    width: 70% !important;
-    margin: 0 auto !important;
-  &:after {
-    content: "";
-    display: table;
-    width: 100%;
-    min-height: 300px;
-    padding-top: 50%;
-  }
 }
 
 .post {

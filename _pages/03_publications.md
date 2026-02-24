@@ -6,6 +6,7 @@ image:
 ---
 
 **International Conferences**
+* Jiyeon Han, Ali Mahdavi-Amiri, Hao Zhang, and <b>Haedong Jeong</b>, 2026, “CREward: A Type-Specific Creativity Reward Model,” Conference on Computer Vision and Pattern Recognition, *CVPR-26*. (To appear)
 * S. Lee, and <b>H. Jeong</b>, 2026, “"I Can Be Anything!" Bridging Today and the Future through Generative AI-driven Self-represented Career Imagination for Children,” Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, *CHI-26*. (To appear)
 * S. Park\*, <b>H. Jeong\*</b>, T. Djanibekov\*, G. Jeon, J. Seol, and J. Choi, 2025, “On the Relationship between Populated Regions and Adversarial Robustness in Deep Neural Networks,” IEEE International Conference on Data Mining, *ICDM-25*. (*contributed equally)
 * G. Jeon, <b>H. Jeong</b>, and J. Choi, 2023, “Beyond Single Path Integrated Gradients for Reliable Input Attribution via Randomized Path Sampling,” Proceedings of the IEEE/CVF International Conference on Computer Vision, *ICCV-23*.
