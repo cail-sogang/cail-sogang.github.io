@@ -17,7 +17,6 @@ Authors: Seongjin Park\*, Haedong Jeong\*, Tair Djanibekov\*, Giyoung Jeon, Jins
 <br><br>
 Pre-print version:<br> [On the Relationship Between Adversarial Robustness and Decision Region in Deep Neural Network](https://arxiv.org/abs/2207.03400)  
 <br>
-Accepted version: <br>
-(To appear)
+Accepted version: [On the Relationship Between Adversarial Robustness and Decision Region in Deep Neural Network](https://ieeexplore.ieee.org/abstract/document/11392077)
 
 ***

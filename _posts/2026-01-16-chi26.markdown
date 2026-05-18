@@ -12,12 +12,9 @@ Our paper is accepted to ACM Conference on Human Factors in Computing Systems (C
 This paper introduces <b>FutureMe</b>, a generative AI–driven system that helps children imagine self-represented future selves through photo-based, step-by-step narrative creation, fostering continuity between their present experiences and future aspirations.
 
 ---
-Title: "I Can Be Anything!" Bridging Today and the Future through Generative AI-driven Self-represented Career Imagination for Children
+Title: ["I Can Be Anything!" Bridging Today and the Future through Generative AI-driven Self-represented Career Imagination for Children](https://dl.acm.org/doi/full/10.1145/3772318.3790985)
 <br>
 Authors: Sunok Lee, and Haedong Jeong
 
-<br>
-Accepted version: <br>
-(To appear)
 
 ***

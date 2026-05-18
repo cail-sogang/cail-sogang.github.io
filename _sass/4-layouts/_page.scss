@@ -36,6 +36,13 @@
   }
 }
 
+.page__head--about {
+  .page-image {
+    width: 70%;
+    max-width: 700px;
+  }
+}
+
 .page {
   margin: 80px auto;
 
@@ -45,6 +52,37 @@
 
   @media only screen and (max-width: $tablet) {
     margin: 40px auto;
+  }
+}
+
+.professor-profile {
+  align-items: flex-start;
+  margin-bottom: 80px;
+
+  .professor-profile__image {
+    .page-image {
+      width: 100%;
+      max-width: 420px;
+      margin: 0 auto;
+    }
+  }
+
+  .professor-profile__content {
+    font-size: 16px;
+    line-height: 26px;
+    text-align: justify;
+  }
+
+  @media only screen and (max-width: $tablet) {
+    margin-bottom: 40px;
+
+    .professor-profile__image {
+      margin-bottom: 40px;
+
+      .page-image {
+        max-width: 360px;
+      }
+    }
   }
 }
 

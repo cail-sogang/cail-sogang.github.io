@@ -6,8 +6,14 @@
         <div class="hero__content">
           <h1 class="hero__title">{{ site.data.settings.author.say-hello }}</h1>
           <!-- <h1 class="hero__title" style="white-space: nowrap;">{{ site.data.settings.author.say-hello }}</h1> -->
-          <p class="hero__subtitle">{{ site.data.settings.author.bio }}</p>
-          <!-- <p class="hero__subtitle">{{ site.data.settings.author.bio }}</p> -->
+          <div class="hero__subtitle">
+            {% if site.data.settings.author.bio_markdown %}
+              {% capture author_bio %}{% include {{ site.data.settings.author.bio_markdown }} %}{% endcapture %}
+              {{ author_bio | markdownify }}
+            {% else %}
+              {{ site.data.settings.author.bio }}
+            {% endif %}
+          </div>
           <div class="hero__social">
             <!-- <span class="hero__social-title">We are hiring |</span> -->
             <!-- {% include contact-link.html %} -->
@@ -19,6 +25,14 @@
           <img src="{{site.baseurl}}/images/{{ site.data.settings.author.image }}" alt="">
         </div>
       </div>
+      {% if site.data.settings.author.bio2_markdown %}
+        <div class="col col-12">
+          <div class="hero__bio-full">
+            {% capture author_bio2 %}{% include {{ site.data.settings.author.bio2_markdown }} %}{% endcapture %}
+            {{ author_bio2 | markdownify }}
+          </div>
+        </div>
+      {% endif %}
     </div>
   </div>
 </div>

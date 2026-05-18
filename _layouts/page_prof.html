@@ -9,19 +9,20 @@ layout: default
 			</div>
 		</div>
 	</div>
-
-	{% if page.image %}
-	<div class="page__head" style="max-width: 700px; margin: 0 auto; padding: 0px;">
-		<img class="page-image" src="{{site.baseurl}}/images/{{page.image}}" alt="{{ page.title | escape }}">
-	</div>
-	{% endif %}
 </div>
 
 <div class="container">
-	<div class="row">
+	<div class="row professor-profile">
+		{% if page.image %}
+		<div class="col col-6 col-t-12">
+			<div class="professor-profile__image page__head">
+				<img class="page-image" src="{{site.baseurl}}/images/{{page.image}}" alt="{{ page.title | escape }}">
+			</div>
+		</div>
+		{% endif %}
 		<!-- begin page -->
-		<article class="page col col-8 col-t-10 col-m-12">
-			<div class="page__content" style="text-align: justify;">
+		<article class="professor-profile__content col col-6 col-t-12">
+			<div class="page__content">
 				{{ content }}
 				<div style="display: inline-flex; align-items: center;">
 					<strong style="margin-right: -5px;"> Google Scholar |</strong>
