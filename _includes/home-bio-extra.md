@@ -8,6 +8,10 @@ For admissions-related information, please refer to the relevant program website
 - **Explainable AI for understanding AI behavior**
     - [Graduate School of AI](https://ai.sogang.ac.kr/ai/index_new.html)
 - **Human-AI Interaction** (Co-supervised by [Prof. Sunok Lee](https://fed-sogang.github.io/index.html))
+    - [Graduate School of AI](https://ai.sogang.ac.kr/ai/index_new.html)
     - [Graduate Program at the Department of Art & Technology](https://creative.sogang.ac.kr/academics/academics_graduate-program-cloned-30309/)
     
 If you are interested in joining our group, please contact us with a brief description of your research interests.
+
+
+---
