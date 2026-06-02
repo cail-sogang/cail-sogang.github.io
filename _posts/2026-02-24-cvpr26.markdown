@@ -16,9 +16,9 @@ Title: CREward: A Type-Specific Creativity Reward Model
 <br>
 Authors: Jiyeon Han, Ali Mahdavi-Amiri, Hao Zhang, and Haedong Jeong
 <br><br>
-Pre-print version:<br> [CREward: A Type-Specific Creativity Reward Model](https://arxiv.org/abs/2511.19995)  
+Pre-print version: [CREward: A Type-Specific Creativity Reward Model](https://arxiv.org/abs/2511.19995)  
 <br>
-Accepted version: <br>
-(To appear)
+Accepted version: (To appear)
+- [Project page](https://han-j-y.github.io/creward_prj/)
 
-***
+---
