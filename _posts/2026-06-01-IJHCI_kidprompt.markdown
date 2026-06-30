@@ -12,12 +12,11 @@ Our paper is accepted to International Journal of Human-Computer Interaction (IJ
 This paper introduces <b>KidPrompt</b> which is a learner-centered text-to-image generative AI tool that helps children explore diverse ideas, compare generated outcomes, and iteratively develop their creative thinking without relying on complex prompts.
 
 ---
-Title: To Creativity, and Beyond: Empirical Studies for Learning Designs of Divergent and Critical Thinking with Text-to-Image Generative AI
+Title: [To Creativity, and Beyond: Empirical Studies for Learning Designs of Divergent and Critical Thinking with Text-to-Image Generative AI](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2689545)
 <br>
 Authors: Sunok Lee and Haedong Jeong
 <br>
 
 <br>
-Accepted version: (To appear)
 
 ***

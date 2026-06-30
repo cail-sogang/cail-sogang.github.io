@@ -6,8 +6,8 @@ image:
 ---
 
 **2026**
-* Sunok Lee, and <b>Haedong Jeong</b>, 2026, “To Creativity, and Beyond: Empirical Studies for Learning Designs of Divergent and Critical Thinking with Text-to-Image Generative AI,” International Journal of Human-Computer Interaction, *IJHCI* (JCR Q1). (To appear)
-* Jiyeon Han, Ali Mahdavi-Amiri, Hao Zhang, and <b>Haedong Jeong</b>, 2026, “CREward: A Type-Specific Creativity Reward Model,” Conference on Computer Vision and Pattern Recognition, *CVPR-26*. (To appear) [[Project page]](https://han-j-y.github.io/creward_prj/)
+* Sunok Lee, and <b>Haedong Jeong</b>, 2026, “To Creativity, and Beyond: Empirical Studies for Learning Designs of Divergent and Critical Thinking with Text-to-Image Generative AI,” International Journal of Human-Computer Interaction, [*IJHCI*](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2689545). (JCR Q1)
+* Jiyeon Han, Ali Mahdavi-Amiri, Hao Zhang, and <b>Haedong Jeong</b>, 2026, “CREward: A Type-Specific Creativity Reward Model,” Conference on Computer Vision and Pattern Recognition, [*CVPR-26*](https://openaccess.thecvf.com/content/CVPR2026/html/Han_CREward_A_Type-Specific_Creativity_Reward_Model_CVPR_2026_paper.html). [[Project page]](https://han-j-y.github.io/creward_prj/)
 * Sunok Lee, and <b>Haedong Jeong</b>, 2026, “"I Can Be Anything!" Bridging Today and the Future through Generative AI-driven Self-represented Career Imagination for Children,” Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems, [*CHI-26*](https://dl.acm.org/doi/full/10.1145/3772318).
 
 **2025**
